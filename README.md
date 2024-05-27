@@ -1,6 +1,6 @@
 Bem vindos!💜
 
-Meu nome é Ana Laura, mais vocês podem me chamar de Aninha.
+Meu nome é Ana Laura, mas vocês podem me chamar de Aninha.
 
 - Estou fazendo o curso do [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
